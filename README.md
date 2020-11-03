@@ -11,13 +11,12 @@ This is my take on a Wordpress install from scratch
 My preferred setup
 1. [GeneratePress](https://generatepress.com/)
 1. [GeneratePress Premium](https://generatepress.com/premium/)
+1. GenerateBlocks
 1. Yoast SEO
-1. White Label CMS
-1. Contact Form 7 (custom)
-1. WPForms Lite (easy)
 1. ManageWP - Worker
 1. EWWW Image Optimizer
 1. Yoast Dupliser innlegg
+1. White Label CMS
 
 ## Settings
 1. Permalinks (flat)
@@ -26,6 +25,8 @@ My preferred setup
 1. Check time and date format
 
 ## Plugins for extra features
+1. Contact Form 7 (custom)
+1. WPForms Lite (easy)
 1. Smash Balloon Instagram Feed
 1. Flamingo
 1. Font Awesome
