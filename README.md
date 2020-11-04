@@ -23,6 +23,12 @@ My preferred setup
 1. Media: 300x300, 600x600, 1920x1920
 1. Discussion: do not allow
 1. Check time and date format
+1. Import setting for White Label CMS
+1. Google and Bing verification code for Yoast
+1. Connect to ManageWP (Orion)
+1. Delete all extra themes, except last official WP theme
+1. Turn on modules features in GeneratePress
+1. Delete example comment and article
 
 ## Plugins for extra features
 1. Contact Form 7 (custom)
@@ -35,6 +41,8 @@ My preferred setup
 1. Regenerate Thumbnails
 1. Media File Renamer
 1. Strong Testimonials 
+1. ACF (Pro)
+
 # SPEED
 
 ## Plugins for optimizing
