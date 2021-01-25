@@ -11,7 +11,8 @@ This is my take on a Wordpress install from scratch
 My preferred setup
 1. [GeneratePress](https://generatepress.com/)
 1. [GeneratePress Premium](https://generatepress.com/premium/)
-1. GenerateBlocks
+1. [GenerateBlocks](https://generateblocks.com/)
+1. GenerateBlocks Pro
 1. Yoast SEO
 1. ManageWP - Worker
 1. EWWW Image Optimizer
@@ -50,7 +51,6 @@ These are for the wrapup, when optimizing site for loading speed, google page sp
 1. Lazy Load for Videos
 1. Autoptimize
 1. Async Javascript
-1. WP Super Cache 
 
 ## More optimizing
-This is a long one.
+1. Turn on webP in image plugin
