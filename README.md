@@ -18,6 +18,7 @@ My preferred setup
 1. EWWW Image Optimizer
 1. Yoast Dupliser innlegg
 1. White Label CMS
+1. [Block Navigation](https://gutenberg-showcase.melonpan.io/block-navigation)
 
 ## Settings
 1. Permalinks (flat)
