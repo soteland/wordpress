@@ -31,13 +31,14 @@ My preferred setup
 # Things
 1. [Favicon](https://realfavicongenerator.net/)
 1. ...
-todo below
+
 ## Settings
 1. Permalinks (flat)
 1. Media: 300x300, 600x600, 1920x1920
 1. Discussion: do not allow
 1. Check time and date format
 1. Import setting for White Label CMS
+1. ....todo below
 1. Google and Bing verification code for Yoast
 1. Connect to ManageWP (Orion)
 1. Delete all extra themes, except last official WP theme
