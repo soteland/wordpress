@@ -1,3 +1,4 @@
+<?php 
 //Add custom image size to admin GUI
 add_filter( 'image_size_names_choose', 'my_custom_sizes' );
   
@@ -14,3 +15,4 @@ function wpdocs_theme_setup() {
     add_theme_support( 'post-thumbnails' );
     add_image_size( 'thumbnail-16-9', 533, 300, true );
 }
+?>
