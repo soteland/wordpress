@@ -4,7 +4,7 @@ This is my take on a Wordpress install from scratch
 ## Before install
 1. Download fresh new version from Wordpress.org every new install
 1. Extract files to webserver
-1. Create new database user for WP specifically
+1. Create new database and database user for WP specifically
 1. Use long and strong passwords for everything, never reuse
 1. Admin-username is not admin or similar, never reuse
 
@@ -44,12 +44,13 @@ My preferred setup
 1. Delete all extra themes, except last official WP theme
 1. Turn on modules features in GeneratePress
 1. Delete example comment and article
+2. Test contact forms, make sure spam filters are good, and SPF is configured!)
 
 ## Plugins for extra features
 1. Contact Form 7 (custom)
 1. WPForms Lite (easy)
 1. Smash Balloon Instagram Feed
-1. Flamingo
+1. Flamingo (important for not losing emails from customer using contact forms)
 1. Font Awesome
 1. Mailchimp for WooCommerce
 1. Loco oversettelse
@@ -57,14 +58,17 @@ My preferred setup
 1. Media File Renamer
 1. Strong Testimonials 
 1. ACF (Pro)
+2. Custom Post UI
 
 # SPEED
 
 ## Plugins for optimizing
 These are for the wrapup, when optimizing site for loading speed, google page speed, gtmetrix
-1. Lazy Load for Videos
-1. Autoptimize
-1. Async Javascript
+1. WP-rocket (seems to be the best plugin for this)
+2. Cloudflare together with WP-rocket
+3. Lazy Load for Videos
+4. Old advice: Autoptimize
+5. Old advice: Async Javascript
 
 ## More optimizing
 1. Turn on webP in image plugin
