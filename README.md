@@ -33,8 +33,9 @@ My preferred setup
 1. Delete example comment and article
 
 ## Plugins for extra features
-1. Contact Form 7 (custom)
-1. WPForms Lite (easy)
+1. WPForms Lite (easy) / Contact Form 7 (custom, old school)
+  2.   Activate turnstile captcha
+1. WPMail SMTP Pro 
 1. Smash Balloon Instagram Feed
 1. Flamingo
 1. Font Awesome
