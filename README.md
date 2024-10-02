@@ -34,13 +34,15 @@ My preferred setup
 
 ## Plugins for extra features
 1. WPForms Lite (easy) / Contact Form 7 (custom, old school)
-  2.   Activate turnstile captcha
-1. WPMail SMTP Pro 
+   - Activate turnstile captcha
+1. WPMail SMTP Pro
+   - AzAD
 1. Smash Balloon Instagram Feed
 1. Flamingo
 1. Font Awesome
 1. Mailchimp for WooCommerce
 1. Loco oversettelse
+2. [Translate Press](https://translatepress.com/features/)
 1. Regenerate Thumbnails
 1. Media File Renamer
 1. Strong Testimonials 
