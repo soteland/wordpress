@@ -35,8 +35,10 @@ My preferred setup
 ## Plugins for extra features
 1. WPForms Lite (easy) / Contact Form 7 (custom, old school)
    - Activate turnstile captcha
+   - Simple Cloudflare Turnstile
 1. WPMail SMTP Pro
    - AzAD
+1. Simple Cloudflare Turnstile
 1. Smash Balloon Instagram Feed
 1. Flamingo
 1. Font Awesome
