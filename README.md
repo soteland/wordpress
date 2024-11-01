@@ -60,3 +60,6 @@ These are for the wrapup, when optimizing site for loading speed, google page sp
 
 ## More optimizing
 1. Turn on webP in image plugin
+
+## Research needed
+1. Child Theme Configurator version 2.6.6
