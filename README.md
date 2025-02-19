@@ -13,7 +13,8 @@ My preferred setup
 1. [GeneratePress Premium](https://generatepress.com/premium/)
 1. [GenerateBlocks](https://generateblocks.com/)
 1. GenerateBlocks Pro
-1. Yoast SEO
+1. Manage Notification E-mails
+1. -
 1. ManageWP - Worker
 1. EWWW Image Optimizer
 1. Yoast Dupliser innlegg
@@ -41,6 +42,7 @@ My preferred setup
 1. Simple Cloudflare Turnstile
 1. Smash Balloon Instagram Feed
 1. Flamingo
+1. Yoast SEO
 1. Font Awesome
 1. Mailchimp for WooCommerce
 1. Loco oversettelse
