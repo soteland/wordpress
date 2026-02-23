@@ -9,16 +9,16 @@ This is my take on a Wordpress install from scratch
 
 ## Themes and plugins
 My preferred setup
-1. [GeneratePress](https://generatepress.com/)
+1. [GeneratePress](https://generatepress.com/) (**always** use child theme!)
 1. [GeneratePress Premium](https://generatepress.com/premium/)
 1. [GenerateBlocks](https://generateblocks.com/)
-1. GenerateBlocks Pro
-1. Manage Notification E-mails
-1. -
+1. GenerateBlocks Pro (kinda like Elementor, but reversible, pure HTML)
+1. [Manage Notification E-mails](https://wordpress.org/plugins/manage-notification-emails/)
+1. Manage Notification E-mails (we hate notifications and emails, right?)
 1. ManageWP - Worker
 1. EWWW Image Optimizer
 1. Yoast Dupliser innlegg
-1. White Label CMS
+1. White Label CMS (should make my own)
 1. [Block Navigation](https://gutenberg-showcase.melonpan.io/block-navigation)
 
 ## Settings
@@ -26,7 +26,7 @@ My preferred setup
 1. Media: 300x300, 600x600, 1920x1920
 1. Discussion: do not allow
 1. Check time and date format
-1. Import setting for White Label CMS
+1. Import setting for White Label CMS (should make my own)
 1. Google and Bing verification code for Yoast
 1. Connect to ManageWP (Orion)
 1. Delete all extra themes, except last official WP theme
@@ -42,10 +42,11 @@ My preferred setup
 1. Simple Cloudflare Turnstile
 1. Smash Balloon Instagram Feed
 1. Flamingo
+1. [RankMath](https://rankmath.com/) (choose over Yoast?)
 1. Yoast SEO
 1. Font Awesome
 1. Mailchimp for WooCommerce
-1. Loco oversettelse
+1. Loco oversettelse (translate plugins and themes)
 2. [Translate Press](https://translatepress.com/features/)
 1. Regenerate Thumbnails
 1. Media File Renamer
