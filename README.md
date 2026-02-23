@@ -13,8 +13,7 @@ My preferred setup
 1. [GeneratePress Premium](https://generatepress.com/premium/)
 1. [GenerateBlocks](https://generateblocks.com/)
 1. GenerateBlocks Pro (kinda like Elementor, but reversible, pure HTML)
-1. [Manage Notification E-mails](https://wordpress.org/plugins/manage-notification-emails/)
-1. Manage Notification E-mails (we hate notifications and emails, right?)
+1. [Manage Notification E-mails](https://wordpress.org/plugins/manage-notification-emails/) (we hate notifications and emails, right?)
 1. ManageWP - Worker
 1. EWWW Image Optimizer
 1. Yoast Dupliser innlegg
