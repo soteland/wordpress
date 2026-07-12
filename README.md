@@ -18,7 +18,7 @@ My preferred setup
 1. EWWW Image Optimizer
 1. Yoast Dupliser innlegg
 1. White Label CMS (should make my own)
-1. [Block Navigation](https://gutenberg-showcase.melonpan.io/block-navigation)
+2. [Manage notification emails](https://wordpress.org/plugins/manage-notification-emails/)
 
 ## Settings
 1. Permalinks (flat)
@@ -39,6 +39,7 @@ My preferred setup
 1. WPMail SMTP Pro
    - AzAD
 1. Simple Cloudflare Turnstile
+1. ACF (Pro)
 1. Smash Balloon Instagram Feed
 1. Flamingo
 1. [RankMath](https://rankmath.com/) (choose over Yoast?)
@@ -50,7 +51,6 @@ My preferred setup
 1. Regenerate Thumbnails
 1. Media File Renamer
 1. Strong Testimonials 
-1. ACF (Pro)
 
 # SPEED
 
